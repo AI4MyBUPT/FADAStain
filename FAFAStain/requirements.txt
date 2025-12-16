@@ -1,0 +1,11 @@
+pytorch
+torchvision
+cudatoolkit
+scipy
+dominate
+opencv-python
+Pillow
+numpy
+visdom
+packaging
+GPUtil
