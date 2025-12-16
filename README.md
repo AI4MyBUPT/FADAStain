@@ -51,7 +51,6 @@ BCI Dataset
 
 MIST Dataset
 
-
 Dataset details and download links:
 
 BCI: https://bupt-ai-cz.github.io/BCI
